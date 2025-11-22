@@ -70,7 +70,7 @@ Node.js instalado.
 
 ### Passo a Passo
 #### Clone o repositório:
-git clone [https://github.com/SEU-USUARIO/CodePathAssist.git](https://github.com/SEU-USUARIO/CodePathAssist.git)
+git clone https://github.com/Gustavo-Dias23/CodePath
 cd CodePathAssist
 
 #### Instale as dependências:
